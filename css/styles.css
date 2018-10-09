@@ -1,0 +1,38 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: 'Eater', cursive;
+  color: #fff;
+  margin: 0;
+  padding: 10px;
+}
+
+
+.slider1 {
+
+}
+
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+
+.background {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+
+.fotorama {
+  background-color: #f7f7f7;
+}
